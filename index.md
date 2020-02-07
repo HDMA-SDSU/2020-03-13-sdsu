@@ -1,7 +1,7 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 venue: "San Diego State University"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "Storm Hall, SAL and FINCH Computer Labs"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+address: "Storm Hall, SAL and FINCH Computer Labs, 5500 Campanile Dr, San Diego, CA 92182"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "us"         # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"        # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 latitude: "32.78"     # decimal latitude of workshop venue (use https://www.latlong.net/)
