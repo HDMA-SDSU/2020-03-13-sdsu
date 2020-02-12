@@ -127,7 +127,11 @@ Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
   <strong>Requirements:</strong> Participants must bring a laptop with a
-  Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should R and RStudio installed and ready to go. Additionally, installing the ggplot2 package ahead of time is useful. You can install ggplot2 by running the R command: install.packages("ggplot2"). Instructions on installing R and RStudio are listed <a href="#setup">below</a>.
+  Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should R and RStudio installed and ready to go. 
+  
+  Additionally, installing the ggplot2 package ahead of time is useful. You can install ggplot2 by running the R command: install.packages("ggplot2"). Instructions on installing R and RStudio are listed <a href="#setup">below</a>. 
+  
+  <strong>Please bring your own snacks and lunch.</strong>
 </p>
 
 {% comment %}
