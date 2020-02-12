@@ -14,7 +14,7 @@ instructor: ["Kelsey Montgomery", "Shervin Sahba"] # boxed, comma-separated list
 helper: ["Karen Robinett", "Andy Loerch", "TBD"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["krobinett8114@sdsu.edu", "kelsey.montgomery@sagebase.org", "ssahba@uw.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://pad.carpentries.org/2020-03-13-sdsu            # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
-eventbrite:  https://www.eventbrite.com/e/san-diego-state-university-software-carpentry-workshop-tickets-93248993249         
+eventbrite: 93248993249      # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)       
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
@@ -49,7 +49,7 @@ displayed if the 'eventbrite' field in the header is not set.
 {% endcomment %}
 {% if page.eventbrite %}
 <iframe
-  src="page.eventbrite"
+  src="https://www.eventbrite.com/tickets-external?eid={{page.eventbrite}}&ref=etckt"
   frameborder="0"
   width="100%"
   height="280px"
