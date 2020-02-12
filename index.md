@@ -7,7 +7,7 @@ language: "en"        # lowercase two-letter ISO language code such as "fr" (see
 latitude: "32.78"     # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "-117.07"  # decimal longitude of the workshop venue (use https://www.latlong.net)
 humandate: "Mar 13-14, 2020"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "Times TBD"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+humantime: " Friday from 9:00 am - 3:00 pm and Saturday from 10:00 am - 3:00 pm with 1 hour lunch break each day"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2020-03-13      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2020-03-14        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Kelsey Montgomery", "Shervin Sahba"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
@@ -79,7 +79,7 @@ the pitch.
 {% comment %}
 AUDIENCE
 
-Explain who your audience is.  (In particular, tell readers if the
+Enrollments are open only to SDSU students, staff, and faculty. Explain who your audience is.  (In particular, tell readers if the
 workshop is only open to people from a particular institution.
 {% endcomment %}
 {% if site.carpentry == "swc" %}
