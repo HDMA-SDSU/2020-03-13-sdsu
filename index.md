@@ -184,7 +184,7 @@ Display the contact email address set in the configuration file.
 </p>
 
 <p id="registration>
-  <strong>Registration</strong>
+  <strong>Registration</strong>:
        <a href="https://www.eventbrite.com/e/san-diego-state-university-software-carpentry-workshop-tickets-93248993249">Eventbrite tickets</a>
 </p>
 <hr/>
