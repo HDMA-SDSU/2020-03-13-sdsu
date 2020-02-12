@@ -183,6 +183,10 @@ Display the contact email address set in the configuration file.
   for more information.
 </p>
 
+<p id="registration>
+  <strong>Registration</strong>
+       <a href="https://www.eventbrite.com/e/san-diego-state-university-software-carpentry-workshop-tickets-93248993249">Eventbrite tickets</a>
+</p>
 <hr/>
 
 {% comment%}
